@@ -8,11 +8,11 @@
 !.vscode/settings.json
 backup/*.sql
 composer.lock
-public/*
 !public/api
 backup/*
 public/index.php
 public/index.html
+public/resources
 public/resources/*
 public/storage/course_materials/*
 !public/storage/course_materials/index.html
